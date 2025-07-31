@@ -27,7 +27,7 @@ rent_yearly_inpounds		annual rent (in pounds)
 years_purchase			calculated as value / rent_yearly_inpounds
 
 
-2. lonmart_repeatsales_1895_1914.csv - this dataset contains property sales that repeated over time data.
+2. lonmart_repeatsales_1895_1914.csv - this dataset contains property sales that repeated over time.
 
 Variable list:
 street_number			street number of the property
