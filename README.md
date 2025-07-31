@@ -1,4 +1,4 @@
-Replication files for "Measuring the Edwardian Property Slump: House Prices and Rents in Residential London, 1895-1914"
+#Replication files for "Measuring the Edwardian Property Slump: House Prices and Rents in Residential London, 1895-1914"#
 Antoninus M. Samy
 
 The folders contain the data and STATA/SAS files required to generate the price indices presented in the article. This document describes the data and the programs used to generate the indexes
